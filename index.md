@@ -2,7 +2,7 @@
 
 This is a list of every videogame accessible to the blind. For purposes of this article, blind means someone with no usable vision. For every game, it's level of accessibility will be described next to it.
 
-For some games there is not enough information so feel free to leave your experiences in the comments. Also, if you know of any other blind-accessible games that aren't on this list, please also write them down in the comments.
+For some games there is not enough information so feel free to leave your experiences in the comments. Also, if you know of any other blind-accessible games that aren't on this list, please write them down in the comments.
 
 ## Games
 - The Last of Us part I. (PC/PS5) - fully accessible w/audio description
@@ -20,19 +20,19 @@ For some games there is not enough information so feel free to leave your experi
 - Plants vs Zombies (PC, with a mod) - no information
 - Diablo IV (all platforms) - mostly accessible, requires mental mapping in dungeons, nav assist only in overworld for now
 - Brock the Investigator (all platforms) - fully accessible w/audio description
-- Sea of Thieves (all platforms) - partially accessible, sighted assistance required
 - Mortal Kombat 1 (all platforms) - fully accessible w/audio description
 - Slay the Spire (PC, with a mod) - fully accessible
 - Hearthstone (PC, with a mod) - fully accessible
-- World of Warcraft (PC, with a mod) - fully accessible
-- Crusader Kings III (PC, with a mod) - partially accessible with OCR
+- World of Warcraft (PC, with a mod) - mostly accessible, sighted assistance required in dungeons and end-game content
+- Crusader Kings III (PC, with a mod) - fully accessible with OCR. This means that everything can be played, but the mod relies on using live OCR instead of directly outputing text to a tts.
 - Skull Girls (PC (not sure for other platforms)) - fully accessible
 - Balatro (PC, with a mod) - fully accessible
 - Any game made in Ren'Py e.g. Doki Doki Literature Club, Slay the Princess... (PC, sometimes with a mod) - fully accessible
 - Fortnite (PC, with a mod) - playable, but a bit tricky to learn. Also requires a good computer because the mod uses machine learning for everything
 - Yu-Gi-Oh: Master Duels (PC, with a mod) - work in progress, looking very promising
-- Pokémon Reborn (PC) - fully accessible
+- Pokémon Reborn (PC) - mostly accessible, instead of navigation assistance there are audio cues for bumping into things to tell you what it is and also for figuring out where walls or empty space are
 - Assassin's Creed Shadows (all platforms) - not enough information
+- Street Fighter 6 (all platforms) - fully accessible gameplay with features like accessibility audio cues, but with no screen reader. Works well with OCR
 
 ## Mods and other mentioned resources
 - [Minecraft Access](https://github.com/minecraft-access/minecraft-access/)
@@ -55,5 +55,4 @@ For some games there is not enough information so feel free to leave your experi
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
 - Most fighting games (e.g. older Mortal Kombat)
-- Street Fighter 6 - according to most people, the only thing it's missing to be fully accessible is a screen reader. The gameplay is fully accessible.
 - Any mostly text based game assuming the UI is good for OCR. This can be tested even before buying the game buy watching a YouTube video or OCRing screenshots of the game.
