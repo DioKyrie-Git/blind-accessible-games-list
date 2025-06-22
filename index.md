@@ -6,14 +6,14 @@ For some games there is not enough information so feel free to leave your experi
 
 ## Games
 - The Last of Us part I. (PC/PS5) - fully accessible w/audio description
-- The Last of Us part II. (PS4/PS5) - fully accessible, but the PS5 version has more features like audio description
+- The Last of Us part II. (PC/PS4/PS5) - fully accessible, but the PS5 and PC versions have more features like audio description and higher quality TTS with support for all game languages
 - God of War Ragnarök (PS4/PS5) - half-baked accessibility with many features broken or partially finished (like the screen reader not reading most of the game), but there is a guide specifically meant to help blind players get around these issues. Also there is audio description, but with many grammatical errors.
-- Spiderman 2 (PC/PS5) - mostly accessible w/audio description (requires brief sighted assistance at certain points in the game)
+- Spiderman 2 (PC/PS5) - mostly accessible w/audio description (requires brief sighted assistance at certain points in the game, but otherwise fully accessible)
 - Minecraft: Java Edition (PC, with a mod) - mostly accessible, requires decent spatial awareness
 - Factorio (PC, with a mod) - mostly accessible, currently stuck on an older game version with support for the newest version being worked on and expected probably in a few months. That older version (1.1) still has planty of content and new players won't notice any significant changes when upgrading to 2.0.
 - Lethal Company (PC, with a mod) - mostly accessible
 - Forza Motorsport (PC/Xbox) - fully accessible, high learning curve, includes audio description
-- As Dusk Falls (all platforms) - fully accessible w/audio description
+- As Dusk Falls (PC/PS5/Xbox) - fully accessible w/audio description (the game is also available for PS4, but that version is not accessible)
 - Hades (PC, with a mod) - playable, but a bit tricky at times, uses OCR
 - Hades II. (PC, with a mod) - no information
 - Stardew Valley (PC, with a mod) - mostly accessible with downsides being related to combat and efficiency when doing some tasks compared to sighted players. Most of that can be fixed with other mods though.
@@ -61,4 +61,7 @@ For some games there is not enough information so feel free to leave your experi
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
 - Most fighting games (e.g. older Mortal Kombat)
 - Rhythm Heaven (Nintendo 3DS) - accidentally playable, menu guide available [here](https://forum.audiogames.net/topic/19099/rhythm-heaven-megamix-menu-guide/)
+- 13 Sentinels: Aegis Rim (PS4/PS5/Switch) - playable, more information and guide available [here](https://breakdownwalls.net/wp-content/uploads/2021/02/13-Sentinels-Guide.html)
+- Ninja Gaiden 3: OCR required, has navigation assist which makes it playable
+- Resident Evil 6: OCR required, has navigation assist which makes it playable.
 - Any mostly text based game assuming the UI is good for OCR. This can be tested even before buying the game buy watching a YouTube video or OCRing screenshots of the game. Similarly, text hooks can be used to play some visual novels (more resources needed on this).
