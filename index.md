@@ -2,7 +2,7 @@
 
 This is a list of every videogame accessible to the blind. For purposes of this article, blind means someone with no usable vision. For every game, it's level of accessibility will be described next to it.
 
-For some games there is not enough information so feel free to leave your experiences in the comments. Also, if you know of any other blind-accessible games that aren't on this list, please write them down in the comments.
+For some games there is not enough information so feel free to leave your experiences in the comments. Also, if you know of any other blind-accessible games that aren't on this list, please write them down in the comments. You can also message me on Discord (my username is: molitvan).
 
 ## Games
 - The Last of Us part I. (PC/PS5) - fully accessible w/audio description
