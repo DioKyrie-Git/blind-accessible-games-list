@@ -36,6 +36,7 @@ For some games there is not enough information so feel free to leave your experi
 - All GBC and GBA Pokemon games (emulated on PC, with a mod) - fully accessible
 - F1 25 (all platforms) - accessibility audio cues in races enabling almost full accessibility of gameplay, however no screen reader or any other features
 - Blackbox (iOS) - fully accessible
+- Soulblaze (PC) - fully accessible
 
 ## Mods and other mentioned resources
 - [Minecraft Access](https://github.com/minecraft-access/minecraft-access/)
@@ -59,4 +60,5 @@ For some games there is not enough information so feel free to leave your experi
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
 - Most fighting games (e.g. older Mortal Kombat)
-- Any mostly text based game assuming the UI is good for OCR. This can be tested even before buying the game buy watching a YouTube video or OCRing screenshots of the game.
+- Rhythm Heaven (Nintendo 3DS) - accidentally playable, menu guide available [here](https://forum.audiogames.net/topic/19099/rhythm-heaven-megamix-menu-guide/)
+- Any mostly text based game assuming the UI is good for OCR. This can be tested even before buying the game buy watching a YouTube video or OCRing screenshots of the game. Similarly, text hooks can be used to play some visual novels (more resources needed on this).
