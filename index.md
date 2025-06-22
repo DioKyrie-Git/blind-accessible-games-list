@@ -4,6 +4,8 @@ This is a list of every videogame accessible to the blind. For purposes of this 
 
 For some games there is not enough information so feel free to leave your experiences in the comments. Also, if you know of any other blind-accessible games that aren't on this list, please write them down in the comments. You can also message me on Discord (my username is: molitvan).
 
+This was originally started on June 18th, 2024 in the form of [this Reddit thread](https://www.reddit.com/r/Blind/comments/1dic7i8/a_list_of_all_blindaccessible_videogames/) and has since been moved here. A website for this list and more is planned in the future. Stay tuned!
+
 ## Games
 - The Last of Us part I. (PC/PS5) - fully accessible w/audio description
 - The Last of Us part II. (PC/PS4/PS5) - fully accessible, but the PS5 and PC versions have more features like audio description and higher quality TTS with support for all game languages
