@@ -27,7 +27,7 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Hearthstone (PC, with a mod) - fully accessible
 - World of Warcraft (PC, with a mod) - mostly accessible, sighted assistance required in dungeons and end-game content
 - Crusader Kings III (PC, with a mod) - fully accessible with OCR. This means that everything can be played, but the mod relies on using live OCR instead of directly outputing text to a tts.
-- Skull Girls (PC (not sure for other platforms)) - fully accessible
+- Skull Girls (PC) - fully accessible
 - Balatro (PC, with a mod) - fully accessible
 - Any game made in Ren'Py e.g. Doki Doki Literature Club, Slay the Princess... (PC, sometimes with a mod) - fully accessible
 - Fortnite (PC, with a mod) - playable, but a bit tricky to learn. Also requires a good computer because the mod uses machine learning for everything
