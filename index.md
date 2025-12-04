@@ -46,6 +46,7 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Final Fantasy VI (PC, with [the FF6 Screen Reader mod](https://github.com/BlindGuyNW/FF6ScreenReader)) - work in progress, under active development
 - Final Fantasy IX (PC, with [this fork of the Memoria engine](https://github.com/BlindGuyNW/FF6ScreenReader), download separately available [here](https://www.dropbox.com/scl/fo/020slj7xgabc2m2ynnuw0/AFj01-ZzB67TcSx2wa0mLtA?rlkey=ngodiwk2wdsh8eaieuj0rrxdl&dl=1)) - work in progress, under active development
 - Disco Elysium (PC, with [the Disco Accessibility mod](https://github.com/BlindGuyNW/disco-accessibility), download separately available [here](https://www.dropbox.com/scl/fo/5tpn0fdadkgb76ujprr8k/AItJ_UbPp2cMR3ctbJ2jAvE?rlkey=ma5zvumvumwhytbsr424eo5un&dl=1)) - fully accessible, requires both controller and keyboard, navigation needs some getting used to
+- Rimworld (PC, with [the Rimworld Access mod](https://www.dropbox.com/scl/fo/dy0cnxq5uy228f4quosjm/ADw6pSLSBSm5ZweePrir3A8?rlkey=rkmdvx1x3wud6zkln02kroi6v&dl=1)) - mostly accessible, limited information on what specifically isn't accessible, more info available [here](https://forum.audiogames.net/topic/58003/rimworld-access-public-release/)
 
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
