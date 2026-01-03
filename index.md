@@ -71,6 +71,7 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 - Doki Doki Literature Club Plus (PC, with [this mod](https://justsayori.com/)) - fully accessible
 - Coffee Talk (PC, with [this mod](https://forum.audiogames.net/topic/57806/)) - limited information
 - Hand of Fate 2 (PC, with [this mod](https://github.com/Lirin111/HandOfFate2-AccessibilityMod/)) - fully accessible
+- A Space for the Unbound (PC, with [this mod](https://github.com/Lirin111/A-Space-For-The-Unbound-accessibility/)) - fully accessible
 
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
