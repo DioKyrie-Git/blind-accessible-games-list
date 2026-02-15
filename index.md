@@ -56,7 +56,7 @@ For updates, questions and discussions about the list and the games on it, you c
 - Rhythm Doctor (PC) - fully accessible w/audio description, except the custom level editor
 - Bits and Bops (PC) - fully accessible w/audio description
 - Slots and Daggers (PC, with [this mod](https://forum.audiogames.net/topic/57985)) - fully accessible
-- DawnCaster (Android/iOS, PC coming soon) - fully accessible w/audio description
+- DawnCaster (PC/Android/iOS, PC coming soon) - fully accessible w/audio description
 - Pokemon Rejuvenation (PC, with [the Crawli Support Pack modpack](https://github.com/yrsegal/crawli-support-pack)) - playable, but very early
 - Pokemon Showdown (PC) - fully accessible
 - Microsoft Flight Simulator 2020 (PC) - more info available [here](https://bvipilots.net/)
@@ -85,6 +85,12 @@ For updates, questions and discussions about the list and the games on it, you c
 - Monster Train (PC, with [this mod](https://github.com/ogomez92/monster_tra11y/)) - work in progress, under active development
 - Strange Adventures In Infinite Space (PC, with [this mod](https://forum.audiogames.net/topic/58475/)) - mostly accessible
 - Diablo (PC, with [the Diablo Access mod](https://github.com/mojsior/diablo-access/)) - mostly accessible
+- Against the Storm (PC, with [this mod](https://github.com/rashadnaqeeb/ats-accessibility-mod/)) - fully accessible
+- Digimon World: Next Order (PC, with [the DigimonNOAccess mod](https://github.com/RealAmethyst/DigimonNOAccess)) - work in progress, under active development
+- Heroes of Might and Magic 3 (PC, with [the VCMIAccess mod](https://github.com/HappyStarfish/VcmiAccess/)) - work in progress, under active development
+- Reigns (PC, with [the Reigns Access mod](https://github.com/leoguimaoficial/Reigns-Access)) - fully accessible
+- Melatonin (PC, with [the Melatonin Access mod](https://github.com/VIPPotato/melatonin-access)) - fully accessible
+- A Dance of Fire and Ice (PC, with [the ADOFAI Access mod](https://github.com/Molitvan/adofai-access)) - work in progress, under active development
 
 ## Accidentally accessible games
 These are games that are playable, but without the developers or modders specifically including accessibility for us. Experience with these games may wary.
