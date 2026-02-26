@@ -10,6 +10,10 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 
 For updates, questions and discussions about the list and the games on it, you can [join the Discord server](https://go.molitvan.me/AccessibleGamesDiscord)
 
+## Important Notice
+
+While I'm always trying to insure that the information here is as accurate as possible, you should still do your own research before buying anything. If you find something here that is inaccurate, please mention it either on the Discord or by opening an issue on this repo.
+
 ## Games
 - The Last of Us part I. (PC/PS5) - fully accessible w/audio description
 - The Last of Us part II. (PC/PS4/PS5) - fully accessible, but the PS5 and PC versions have more features like audio description and higher quality TTS with support for all game languages
