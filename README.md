@@ -77,7 +77,7 @@ For updates, questions and discussions about the list and the games on it, you c
 - Final Fantasy (PC, with [the FF1 Screen Reader mod](https://github.com/bladestorm360/FF1-Screen-Reader)) - mostly accessible, click the mod link for more information
 - Cookie Clicker (PC (specifically the Steam version), with [this mod](https://github.com/FioraXena/Cookie-Clicker-Enhanced-NVDA-Accessibility-Steam-Only-)) - mostly accessible
 - Heaven Studio (PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - limited information
-- The Bazaar (PC, with [the Bazaar Access mod](https://github.com/Ali-Bueno/bazaar-access)) - mmostly  inaccessible, more info available [here](https://forum.audiogames.net/topic/58335/) - fully accessible
+- The Bazaar (PC, with [the Bazaar Access mod](https://github.com/Ali-Bueno/bazaar-access)) - mmostly  inaccessible, more info available [here](https://forum.audiogames.net/topic/58335/) - partially accessible
 - Who wants to be a millionaire (PC, with [this mod](https://forum.audiogames.net/topic/58369)) - mostly inaccessible
 - Pastel Parade (PC, with [this mod](https://chikutaku-luyi.itch.io/ppa11y)) - fully accessible
 - Monster Train (PC, with [this mod](https://github.com/ogomez92/monster_tra11y/)) - work in progress, under active development
@@ -89,6 +89,11 @@ For updates, questions and discussions about the list and the games on it, you c
 - Reigns (PC, with [the Reigns Access mod](https://github.com/leoguimaoficial/Reigns-Access)) - fully accessible
 - Melatonin (PC, with [the Melatonin Access mod](https://github.com/VIPPotato/melatonin-access)) - fully accessible
 - A Dance of Fire and Ice (PC, with [the ADOFAI Access mod](https://github.com/Molitvan/adofai-access)) - work in progress, under active development
+- Fallout 4 (PC, with [the Fallout 4 Access mod](https://www.nexusmods.com/fallout4/mods/100314)) - work in progress, under active development
+- Death and Taxes (PC, with [the Death and Access mod](https://github.com/ObjectInSpace/Death-and-access/)) - mostly accessible
+- Magic: The Gathering Arena (PC, with [https://github.com/JeanStiletto/AccessibleArena/]()) - work in progress, under active development
+- Chicken Police (PC, with [this mod](https://github.com/Berenion/ChickenPoliceAccessibility/)) - fully accessible
+- Deep Rock Galactic Survivor (PC, with [the DRG Access mod](https://github.com/Ali-Bueno/drg-access/)) - work in progress, under active development
 
 ## Accidentally accessible games
 
