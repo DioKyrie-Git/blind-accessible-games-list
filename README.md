@@ -98,6 +98,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - Magic: The Gathering Arena (PC, with [https://github.com/JeanStiletto/AccessibleArena/]()) - work in progress, under active development
 - Chicken Police (PC, with [this mod](https://github.com/Berenion/ChickenPoliceAccessibility/)) - fully accessible
 - Deep Rock Galactic Survivor (PC, with [the DRG Access mod](https://github.com/Ali-Bueno/drg-access/)) - work in progress, under active development
+- Slay the Spire 2 (PC, with [the Say the Spire 2 mod](https://github.com/bradjrenshaw/say-the-spire2)) - work in progress, under active development
 
 ## Accidentally accessible games
 
