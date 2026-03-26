@@ -40,7 +40,6 @@ While I'm always trying to insure that the information here is as accurate as po
 - Balatro (PC, with [the Black Hole mod](https://github.com/Aurelius7309/BlackHole)) - fully accessible
 - Any game made in Ren'Py e.g. Doki Doki Literature Club, Slay the Princess... (PC, sometimes with a mod) - fully accessible
 - Fortnite (PC, with [the FA11y mod](https://github.com/GreenBeanGravy/FA11y), aim assist available separately [here](https://discord.com/invite/bZa35NZy8Y)) - playable, but a bit tricky to learn. Also requires a good computer because the mod uses machine learning for everything
-- Yu-Gi-Oh: Master Duels (PC, with [the Master Duels Blind Mode mod](https://github.com/radsi/Master-Duels-BlindMode)) - work in progress, looking very promising
 - Pokémon Reborn (PC)
   - Without mods: mostly accessible, instead of navigation assistance there are audio cues for bumping into things to tell you what it is and also for figuring out where walls or empty space are
   - with [the PK Reborn Access mod](https://github.com/fclorenzo/pkreborn-access) - improves the experience with a lot of features including proper nav assist and improving menu narration in some screens
@@ -55,7 +54,9 @@ While I'm always trying to insure that the information here is as accurate as po
 - Disco Elysium (PC, with [the Disco Accessibility mod](https://github.com/BlindGuyNW/disco-accessibility), download separately available [here](https://www.dropbox.com/scl/fo/5tpn0fdadkgb76ujprr8k/AItJ_UbPp2cMR3ctbJ2jAvE?rlkey=ma5zvumvumwhytbsr424eo5un&dl=1)) - fully accessible, requires both controller and keyboard, navigation needs some getting used to
 - Rimworld (PC, with [the Rimworld Access mod](https://github.com/AccessMods/rimworld_access)) - fully accessible, with DLC support comming soon
 - 1428: Shadows Over Silesia (PC) - fully accessible w/audio description
-- Rhythm Doctor (PC) - fully accessible w/audio description, except the custom level editor
+- Rhythm Doctor (PC)
+  - Without mods: fully accessible w/audio description, except the custom level editor
+  - with [the RDLE Access mod](https://white-rice94.itch.io/rdle-access) - level editor accessible as well
 - Bits and Bops (PC) - fully accessible w/audio description
 - Slots and Daggers (PC, with [this mod](https://forum.audiogames.net/topic/57985)) - fully accessible
 - DawnCaster (PC/Android/iOS, PC coming soon) - fully accessible w/audio description
@@ -88,17 +89,37 @@ While I'm always trying to insure that the information here is as accurate as po
 - Strange Adventures In Infinite Space (PC, with [this mod](https://forum.audiogames.net/topic/58475/)) - mostly accessible
 - Diablo (PC, with [the Diablo Access mod](https://github.com/mojsior/diablo-access/)) - mostly accessible
 - Against the Storm (PC, with [this mod](https://github.com/rashadnaqeeb/ats-accessibility-mod/)) - fully accessible
-- Digimon World: Next Order (PC, with [the DigimonNOAccess mod](https://github.com/RealAmethyst/DigimonNOAccess)) - work in progress, under active development
+- Digimon World: Next Order (PC, with [the DigimonNOAccess mod](https://github.com/RealAmethyst/DigimonNOAccess)) - fully accessible
 - Heroes of Might and Magic 3 (PC, with [the VCMIAccess mod](https://github.com/HappyStarfish/VcmiAccess/)) - work in progress, under active development
 - Reigns (PC, with [the Reigns Access mod](https://github.com/leoguimaoficial/Reigns-Access)) - fully accessible
 - Melatonin (PC, with [the Melatonin Access mod](https://github.com/VIPPotato/melatonin-access)) - fully accessible
 - A Dance of Fire and Ice (PC, with [the ADOFAI Access mod](https://github.com/Molitvan/adofai-access)) - work in progress, under active development
 - Fallout 4 (PC, with [the Fallout 4 Access mod](https://www.nexusmods.com/fallout4/mods/100314)) - work in progress, under active development
 - Death and Taxes (PC, with [the Death and Access mod](https://github.com/ObjectInSpace/Death-and-access/)) - mostly accessible
-- Magic: The Gathering Arena (PC, with [https://github.com/JeanStiletto/AccessibleArena/]()) - work in progress, under active development
+- Magic: The Gathering Arena (PC, with [the Accessible Arena mod](https://github.com/JeanStiletto/AccessibleArena/)) - work in progress, under active development
 - Chicken Police (PC, with [this mod](https://github.com/Berenion/ChickenPoliceAccessibility/)) - fully accessible
 - Deep Rock Galactic Survivor (PC, with [the DRG Access mod](https://github.com/Ali-Bueno/drg-access/)) - work in progress, under active development
-- Slay the Spire 2 (PC, with [the Say the Spire 2 mod](https://github.com/bradjrenshaw/say-the-spire2)) - work in progress, under active development
+- Slay the Spire 2 (PC, with [the Say the Spire 2 mod](https://github.com/bradjrenshaw/say-the-spire2)) - fully accessible
+- Oxygen not Included (PC, with [the ONI Access mod](https://github.com/rashadnaqeeb/OniAccess)) - fully accessible
+- Hacknet (PC, with [the Hacknet Access mod](https://github.com/zersiax/HacknetAccess)) - work in progress, under active development
+- Cryptmaster (PC, with [the Cryptmaster Access mod](https://github.com/zersiax/CryptmasterAccess)) - work in progress, under active development
+- Blippo Plus (PC, with [the Blippo Access mod](https://github.com/zersiax/BlippoAccess)) - fully accessible
+- Sunless Sea (PC, with [the Sunless Sea Access mod](https://git.alex19ep.me/alex19EP/SunlessSeaAccess)) - mostly accessible, with the combat system not being that user friendly yet
+- Yu Gi Oh: Master Duel (PC, with [the Blind Duel mod](https://github.com/realamethyst/blindduel)) - mostly accessible
+- Sid Meier's Alpha Centauri (PC, with [the SMAC Access mod](https://github.com/HappyStarfish/smac-access)) - work in progress, under active development
+- Super Robot Wars Y (PC, with [the SRWY Access mod](https://github.com/stephenso1120-cmyk/SRWY-Accessibility/)) - mostly accessible
+- TCG Card Shop Simulator Prologue (PC, with [the TCG Card Shop Simulator Prologue Access mod](https://github.com/RogueEugor/TCG-Card-Shop-Simulator-Prologue-Access)) - mostly accessible
+- Date Everything! (PC, with [the Date Everything Access mod](https://github.com/ObjectInSpace/date-everything-access)) - work in progress, under active development
+- Football Simulator (with [the Football Simulator Access mod](https://github.com/PawsTogetherGaming/FootballSimulatorAccessMod)) - mostly accessible
+- The Drifter (PC, with [this mod](https://github.com/Lirin111/the-drifter-accessibility-mod)) - limited information
+- World Empire 2027 and spinoffs (PC/Android/iOS) - fully accessible
+- Stories of Blossom (PC) - fully accessible w/audio description
+- Stray Gods (PC) - partially accessible. Has audio description and accessible gameplay, but no menu narration
+- The Banner Saga (PC, with [this mod](http://n0n0ce.free.fr/TBS_Access/index.html)) - limited information, seems to be under active development but very slow
+- Doom (PC, with [the Toby Doom Accessibility mod](https://alando1.itch.io/)) - limited information
+- Super Auto Pets (PC, with [the SAP Access mod](https://github.com/GreenBeanGravy/SAPAccess-Release)) - work in progress, under active development
+- Clicker Heroes (PC, with [the CH Access mod](https://github.com/shotgunspoon/ch_patcher)) - 
+- Silence (PC, with [the Silence Access mod](https://github.com/Lirin111/Silence---Access)) - work in progress, under active development
 
 ## Accidentally accessible games
 
@@ -112,6 +133,7 @@ These are games that are playable, but without the developers or modders specifi
 - Dragon Ball: Sparking! Zero - playable, but requires a lot of OCR
 - Ninja Gaiden 4 - OCR required, has navigation assist which makes it playable
 - Animal Crossing: New Horizons - OCR required, has very good sound design and sound cues for almost everything in the game and is also very customizable
+- Final Fantasy XVI - has accidental navigation assist (animal instinct) which makes it technically somewhat playable
 
 # iOS Games
 - A Dark Room- fully accessible
