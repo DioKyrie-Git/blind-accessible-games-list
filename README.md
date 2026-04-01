@@ -82,7 +82,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - Final Fantasy (PC, with [the FF1 Screen Reader mod](https://github.com/bladestorm360/FF1-Screen-Reader)) - mostly accessible, click the mod link for more information
 - Cookie Clicker (PC (specifically the Steam version), with [this mod](https://github.com/FioraXena/Cookie-Clicker-Enhanced-NVDA-Accessibility-Steam-Only-)) - mostly accessible
 - Heaven Studio (PC, with [this mod](https://chikutaku-luyi.itch.io/rhsamod)) - limited information
-- The Bazaar (PC, with [the Bazaar Access mod](https://github.com/Ali-Bueno/bazaar-access)) - mostly  inaccessible, more info available [here](https://forum.audiogames.net/topic/58335/) - partially accessible
+- The Bazaar (PC, with [the Bazaar Access mod](https://github.com/Ali-Bueno/bazaar-access)) - partialy accessible, more info available [here](https://forum.audiogames.net/topic/58335/)
 - Who wants to be a millionaire (PC, with [this mod](https://forum.audiogames.net/topic/58369)) - mostly inaccessible
 - Pastel Parade (PC, with [this mod](https://chikutaku-luyi.itch.io/ppa11y)) - fully accessible
 - Monster Train (PC, with [this mod](https://github.com/ogomez92/monster_tra11y/)) - work in progress, under active development
@@ -120,9 +120,9 @@ While I'm always trying to insure that the information here is as accurate as po
 - Super Auto Pets (PC, with [the SAP Access mod](https://github.com/GreenBeanGravy/SAPAccess-Release)) - work in progress, under active development
 - Clicker Heroes (PC, with [the CH Access mod](https://github.com/shotgunspoon/ch_patcher)) - 
 - Silence (PC, with [the Silence Access mod](https://github.com/Lirin111/Silence---Access)) - work in progress, under active development
-- Sunlight (PC) fully accessible, includes audio discription
+- Sunlight (PC) mostly accessible
 -Brilliant Shadows Part 1 (PC, with [this mod](https://github.com/shaysters/brilliant-shadows-accessibility-mod)) mostly accessible
-- Monster Prom (PC, with [this mod](https://github.com/shaysters/MonsterProm-Accessibility-Mod)) limited informatio
+- Monster Prom (PC, with [this mod](https://github.com/shaysters/MonsterProm-Accessibility-Mod)) limited information
 - Fire Emblem Sacred Stones (PC, with [this mod](https://github.com/StanHash/GBA-Fire-Embem-for-Screen-Readers)) mostly inaccessible, development status unclear
 
 
