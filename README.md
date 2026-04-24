@@ -10,6 +10,10 @@ This was originally started on June 18th, 2024 in the form of [this Reddit threa
 
 For updates, questions and discussions about the list and the games on it, you can [join the Discord server](https://go.molitvan.me/AccessibleGamesDiscord)
 
+## Give me money
+
+If you like this project or any other projects I (Molitvan) worked on, you can [give me money on Ko-Fi](https://ko-fi.com/Molitvan). Thank you to anyone who does this, it means a lot!
+
 ## Important Notice
 
 While I'm always trying to insure that the information here is as accurate as possible, you should still do your own research before buying anything. If you find something here that is inaccurate, please mention it either on the Discord or by opening an issue on this repo.
