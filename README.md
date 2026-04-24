@@ -137,7 +137,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - Gladiator Manager (PC, with [the Gladiator Manager Access mod](https://github.com/druidah/Gladiator-Manager-Access/)) - work in progress, under active development
 - Outer Wilds (PC, with [the Outer Wilds Access mod](https://github.com/PlatinumTsuki/OuterWildsAccess/)) - work in progress, under active development
 - WorldBox (PC, with [the WorldBox Access mod](https://github.com/Makenann/WorldBoxAccess/)) - mostly accessible
-- Rift Wizard 2 (PC, with [the Words of Power mod](https://github.com/EarthboundPromoter/Words-of-Power)) - mostly accessible
+- Rift Wizard 2 (PC, with [the Words of Power mod](https://github.com/EarthboundPromoter/Words-of-Power)) - fully accessible
 - Dragon Ball Sparking! Zero (PC, with [the Sparking Zero Access mod](https://github.com/AccessForge/SparkingZeroAccess)) - work in progress, under active development (note that this game is accidentally playable without the mod as well)
 - Buckshot Roulette (PC, with [this mod]( https://github.com/Lethal-Lawnmower/BuckshotRoulette-Accessibility-Mod)) - mostly accessible
 
