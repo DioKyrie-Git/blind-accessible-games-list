@@ -52,7 +52,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - Final Fantasy VI (PC, with [the FF6 Screen Reader mod](https://github.com/BlindGuyNW/FF6ScreenReader)) - mostly accessible, fully completeable
 - Final Fantasy IX (PC, with [this fork of the Memoria engine](https://github.com/BlindGuyNW/FF6ScreenReader), download separately available [here](https://www.dropbox.com/scl/fo/020slj7xgabc2m2ynnuw0/AFj01-ZzB67TcSx2wa0mLtA?rlkey=ngodiwk2wdsh8eaieuj0rrxdl&dl=1)) - work in progress, development paused indefinitely
 - Disco Elysium (PC, with [the Disco Accessibility mod](https://github.com/BlindGuyNW/disco-accessibility), download separately available [here](https://www.dropbox.com/scl/fo/5tpn0fdadkgb76ujprr8k/AItJ_UbPp2cMR3ctbJ2jAvE?rlkey=ma5zvumvumwhytbsr424eo5un&dl=1)) - fully accessible, requires both controller and keyboard, navigation needs some getting used to
-- Rimworld (PC, with [the Rimworld Access mod](https://github.com/AccessMods/rimworld_access)) - fully accessible, with DLC support comming soon
+- Rimworld (PC, with [the Rimworld Access mod](https://github.com/AccessMods/rimworld_access)) - fully accessible, with DLC support coming soon
 - 1428: Shadows Over Silesia (PC) - fully accessible w/audio description
 - Rhythm Doctor (PC)
   - Without mods: fully accessible w/audio description, except the custom level editor
@@ -135,6 +135,7 @@ While I'm always trying to insure that the information here is as accurate as po
 - WorldBox (PC, with [the WorldBox Access mod](https://github.com/Makenann/WorldBoxAccess/)) - mostly accessible
 - Rift Wizard 2 (PC, with [the Words of Power mod](https://github.com/EarthboundPromoter/Words-of-Power)) - mostly accessible
 - Dragon Ball Sparking! Zero (PC, with [the Sparking Zero Access mod](https://github.com/AccessForge/SparkingZeroAccess)) - work in progress, under active development (note that this game is accidentally playable without the mod as well)
+- Buckshot Roulette (PC, with [this mod]( https://github.com/Lethal-Lawnmower/BuckshotRoulette-Accessibility-Mod)) - mostly accessible
 
 ## Accidentally accessible games
 
@@ -152,10 +153,25 @@ These are games that are playable, but without the developers or modders specifi
 # iOS Games
 - A Dark Room- fully accessible
 - Academy of Disaster - mostly accessible, with a few little bugs but over all very playable and easy to play
+- Adventure to Fate (full series) – fully accessible
+- A Few Minutes of Glory - fully accessible
 - AI Dungeon - partially accessible, although the web version is much better
-- Baby Adopter and spinoffs - fully accessable
-- BattleCry - mostly accessable with a few issues
-- BitLife - fully accessable
-- BitLife Dogs - fully accessable
-- Blackbox - fully accessable
+- Art of Fauna – fully accessible
+- Art of Flora – fully accessible
+- Baby Adopter and spinoffs - fully accessible
+- BattleCry - mostly accessible with a few issues
+- BitLife - fully accessible
+- BitLife Dogs - fully accessible
+- Blackbox - fully accessible
 - Eldrum: all games in the series - fully accessible
+- Galactic Colonies – fully accessible
+- Godville - fully accessible
+- Idle Crafting Kingdom - fully accessible
+- Invisible Dragons – fully accessible
+- King of Dragon Pass - fully accessible
+- Land Of Livia – fully accessible
+- Lords and Knights (and spinoffs) - fully accessible
+- Nano Empire – fully accessible
+- Seedship - fully accessible
+- Six Ages 1 and 2 - fully accessible
+- The Ensign - fully accessible
